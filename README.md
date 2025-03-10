@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tharika G (@Tharika9668)  
-🚀 Passionate about Cloud Computing & Web Development !
+🚀 Passionate about Cloud Computing & Web Development !'
 
 ## 👀 Interests  
 - Cloud Computing ☁️  
